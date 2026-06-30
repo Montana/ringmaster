@@ -1,4 +1,4 @@
-# Halo System Link: Host Picker
+# Ringmaster: Randomize or Pick Host on Halo 2 / Halo 3 System Link.
 
 Randomly pick which Xbox should host a Halo **System Link** match. Built for the LAN era of **Halo 2** (original Xbox) and **Halo 3** (Xbox 360), where the
 "host" is simply whichever console *creates* the game while the others join. This tool can't force a particular console to host, but it fairly settles the
