@@ -54,6 +54,14 @@ There are two programs in this project:
   pip install scapy
   ```
 
+## Visiual flowchart 
+
+Below is a visual chart on how it works:
+
+<img width="1122" height="1402" alt="ringflow" src="https://github.com/user-attachments/assets/ca6b28bd-3c06-4bcc-b6e5-5c8ffbd196ce" />
+
+Let's get to the quick start.
+
 ---
 
 ## Quick start (GUI)
