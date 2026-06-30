@@ -1,4 +1,4 @@
-# Halo System Link — Host Picker
+# Halo System Link: Host Picker
 
 Randomly pick which Xbox should host a Halo **System Link** match. Built for
 the LAN era of **Halo 2** (original Xbox) and **Halo 3** (Xbox 360), where the
