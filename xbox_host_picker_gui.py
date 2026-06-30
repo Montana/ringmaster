@@ -1,26 +1,4 @@
 #!/usr/bin/env python3
-"""
-xbox_host_picker_gui.py
-=======================
-
-A desktop GUI that finds Xbox consoles on your LAN and randomly picks one to be
-the Halo System Link host -- Halo 2 (original Xbox) or Halo 3 (Xbox 360).
-
-Eight consoles are drawn as little Xboxes. Auto-fill them by scanning the LAN,
-or type names/IPs in by hand. Click a console to toggle it on/off. Hit
-"Pick Host" for a roulette-style spin that lights up a random eligible Xbox.
-
-Run:
-    python xbox_host_picker_gui.py
-
-Scanning notes:
-  * Most reliable with scapy:  pip install scapy   (run with sudo on Linux/mac)
-  * Without scapy it falls back to a ping sweep + your system ARP table.
-  * Consoles must be powered on and on the same switch. OG Xboxes sometimes
-    only appear once a System Link game (e.g. Halo 2's lobby) is loaded.
-
-Change NUM_SLOTS / COLUMNS below to lay out a different number of consoles.
-"""
 
 import ipaddress
 import platform
